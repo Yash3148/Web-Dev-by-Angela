@@ -5,53 +5,53 @@ In CSS {Cascading Style Sheets}, the display property is used to define how an H
 Elements with display: block will generate a block-level box.
 These elements will start on a new line and take up the full width available, extending the entire width of their parent container.
 
-/* div {
+div {
   display: block;
-} */
+} 
 
 2. inline:
 
 Elements with display: inline will generate an inline-level box.
 These elements do not start on a new line and only take up as much width as necessary.
 
-/* span {
+span {
   display: inline;
-} */
+} 
 
 3. inline-block:
 
 Elements with display: inline-block will generate an inline-level block container.
 Similar to inline, but you can apply block-level properties like width and height to them.
 
-/* img {
+img {
   display: inline-block;
-} */
+} 
 
 4. none:
 
 Elements with display: none will not be displayed on the page.
 The element and its content will be completely removed from the document flow.
 
-/* .hidden {
+.hidden {
   display: none;
-} */
+}
 
 5. flex:
 
 Elements with display: flex will become a flex container.
 This allows you to use the flexbox layout model to arrange child elements.
 
-/* .flex-container {
+.flex-container {
   display: flex;
-} */
+}
 
 6. grid:
 
 Elements with display: grid will become a grid container.
 This allows you to use the CSS Grid layout model to arrange child elements in rows and columns.
 
-/* .grid-container {
+.grid-container {
   display: grid;
-} */
+}
 
 These are just a few examples, and there are other values and combinations of values for the display property. The choice of display value depends on the desired layout and design of your web page.
