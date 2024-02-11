@@ -21,3 +21,15 @@ var randomImageSource = "image/" + randomDiceImage; // image/dice1.png - image/d
 var image2 = document.querySelectorAll("img")[1]
 
 image2.setAttribute("src", randomImageSource);
+
+// Conditional Statement
+
+if (randomNumber1 > randomNumber2){
+    document.querySelector("h1").innerHTML = "Player 1 has won";
+}
+else if (randomNumber1 < randomNumber2){
+    document.querySelector("h1").innerHTML = "Player 2 has won";
+}
+else {
+    document.querySelector("h1").innerHTML = "Its a Draw";;
+}
