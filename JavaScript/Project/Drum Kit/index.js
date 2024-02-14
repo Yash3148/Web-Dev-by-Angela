@@ -63,9 +63,4 @@ function makeSound(key) {
     
 }
 
-document.addEventListener("keypress", function(event){
-
-    console.log(event);
-});
- 
 
