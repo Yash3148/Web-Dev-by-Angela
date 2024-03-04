@@ -11,3 +11,10 @@ import genrateName from "sillyname";
 var sillyName = genrateName();
 
 console.log(`My name is ${sillyName}.`);
+
+// In this we are generating random heroes name.
+
+import superheroes from "superheroes";
+const name = superheroes.random();
+
+console.log(`I am ${name}`);

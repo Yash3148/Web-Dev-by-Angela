@@ -10,6 +10,8 @@
   "author": "Yash Singh",
   "license": "ISC",
   "dependencies": {
-    "sillyname": "^0.1.0"
+    "sillyname": "^0.1.0",
+    "superhero": "^2.14.7",
+    "superheroes": "^3.0.0"
   }
 }
