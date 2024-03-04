@@ -5,3 +5,6 @@ Node REPL --> Node Read Eval Print Loop is a computer environment where user inp
 node --> to go in node shell
 
 Native Modules --> 
+
+CJS --> Common JS
+ESM --> ECMAScript
