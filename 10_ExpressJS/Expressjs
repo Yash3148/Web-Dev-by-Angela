@@ -1,2 +1,3 @@
 ExpressJs --> Express.js is a tool for making websites and applications with Node.js. It helps developers handle web-related tasks like managing different pages, dealing with user requests, and more. It's like a helper that makes building web stuff easier and faster.
 
+nodemon --> used to automate the  process of restarting the server whenever there is a change in any file. It saves us from manually.
