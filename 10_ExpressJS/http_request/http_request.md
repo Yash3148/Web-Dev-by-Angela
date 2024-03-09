@@ -10,3 +10,17 @@ Request Vocab
 4. PATCH --> Patch up a resource.
 
 5. DELETE --> Delete a resources. 
+
+HTTP Response Status Codes.
+
+Informational responses (100-199); 
+
+Sucessful responses  (200-299);
+
+Redirection messages (300-399);
+
+Client Errors (400-499);
+
+Server errors  (500-599).;
+
+  
