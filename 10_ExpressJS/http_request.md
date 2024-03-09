@@ -9,4 +9,4 @@ Request Vocab
 
 4. PATCH --> Patch up a resource.
 
-5. DELETE --> 
+5. DELETE --> Delete a resources. 
