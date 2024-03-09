@@ -1,3 +1,5 @@
+Node JS --> Node.js is a tool that lets people use JavaScript to make computer programs that can do things like handle website requests or build applications. It's good for tasks that need to happen at the same time without slowing things down. Node.js is famous for being fast and works well on different types of computers.
+
 To check the version of NodeJS --> # node -v
 
 Node REPL --> Node Read Eval Print Loop is a computer environment where user inputs are read and evaluated, and then the results are returned to the user.
