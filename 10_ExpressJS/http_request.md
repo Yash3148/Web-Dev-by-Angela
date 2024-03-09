@@ -5,8 +5,8 @@ Request Vocab
 
 2. POST --> Sending a resource to a server.
 
-3. PUT --> 
+3. PUT --> Replace/ Update the resource. 
 
-4. PATCH
+4. PATCH --> Patch up a resource.
 
-5. DELETE 
+5. DELETE --> 
