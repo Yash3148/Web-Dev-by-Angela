@@ -21,7 +21,7 @@ app.get("/", (req, res) => {
     adv = "it's time to have some fun";
   }
 
-  res.render("solution.ejs", {
+  res.render("index.ejs", {
     dayType: type,
     advice: adv,
   });
